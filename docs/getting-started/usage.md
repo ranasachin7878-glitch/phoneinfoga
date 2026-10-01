@@ -83,3 +83,4 @@ Equivalent docker command:
 ```shell
 docker run --rm -it -p 5000:5000 sundowndev/phoneinfoga serve --no-client
 ```
+phoneinfoga scan -n "+91 9917454909"
